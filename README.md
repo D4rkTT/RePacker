@@ -18,6 +18,7 @@ cd Js2Py && python3 setup.py install
     - Install android studio
     - Install npm
     - Install Cordova using npm (Version 9.0 is the most widely used)
+
 3- Download RePacker
 ```shell
 git clone https://github.com/D4rkTT/RePacker
