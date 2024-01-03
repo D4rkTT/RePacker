@@ -18,7 +18,24 @@ cd Js2Py && python3 setup.py install
     - Install android studio
     - Install npm
     - Install Cordova using npm (Version 9.0 is the most widely used)
+3- Download RePacker
+```shell
+git clone https://github.com/D4rkTT/RePacker
+cd RePacker && python3 repacker.py -h
+```
 
+## Usage
+```shell
+
+    ____       ____             __
+   / __ \___  / __ \____ ______/ /_____  _____
+  / /_/ / _ \/ /_/ / __ `/ ___/ //_/ _ \/ ___/
+ / _, _/  __/ ____/ /_/ / /__/ ,< /  __/ /
+/_/ |_|\___/_/    \__,_/\___/_/|_|\___/_/  V0.1
+
+
+usage: repacker.py [-h] application_file
+```
 ## Encountering Bugs?
 RePacker still beta version so if you facing any bugs, please report it in Issues section.
 
